@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Simple Contact Book</string>
+
+    <!--Custom String-->
+    <string name="mobile">email</string>
+    <string name="call">for call</string>
+    <string name="message">for message</string>
+    <string name="number">+92 0000000000</string>
+    <string name="name">Name</string>
+    <string name="whatsapp">Whatsapp</string>
+
+    <string name="contact">Contacts</string>
+    <string name="contact_book">Contact Book</string>
+    <string name="add_to_sqlite">Add to SQLite</string>
+    <string name="update_to_sqlite">Update to SQLite</string>
+
+    <string name="enter_name">Enter Name here</string>
+    <string name="enter_contact">Enter Contact No</string>
+    <string name="enter_email">Enter Email</string>
+
+
+
+</resources>
