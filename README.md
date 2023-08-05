@@ -39,6 +39,8 @@ The Contact Book App is a simple Android application that allows users to manage
 
 **2. WhatsApp Call and SMS:** If the contact has a WhatsApp number associated, users can initiate a WhatsApp call or send a WhatsApp message directly from the contact details screen.
 
+# Demo
 
+https://github.com/awaiskohistanii/Contact_Book/assets/107536933/4ae7d996-1445-41f7-8481-81096a1831e3
 
-
+![lv_0_20230805172933_AdobeExpress](https://github.com/awaiskohistanii/Contact_Book/assets/107536933/d90f7066-c02f-4dfd-9985-a89957a93050)
