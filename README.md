@@ -1,5 +1,6 @@
 # Contact_Book
 The Contact Book App is a simple Android application that allows users to manage their contacts effectively. It provides a user-friendly interface to add, view, edit, and delete contacts from the device's local database. The app is built using Java and follows best practices for Android app development.
+
 # Features
 **1. Add New Contacts :** Users can add new contacts by providing details such as name, phone number, email address, and optional image. The input is validated to ensure data integrity.
 
@@ -40,8 +41,23 @@ The Contact Book App is a simple Android application that allows users to manage
 **2. WhatsApp Call and SMS:** If the contact has a WhatsApp number associated, users can initiate a WhatsApp call or send a WhatsApp message directly from the contact details screen.
 
 # Demo
-
-
-
 https://github.com/awaiskohistanii/Contact_Book/assets/107536933/3a08d7c7-9b1b-4cfd-ad6c-964b32f31d6b
 
+# Screen Shots
+<p align="center">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/3a26139c-960a-4005-a882-bf3f00b3a2db" width="200" height="400">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/1c5ff884-66c1-41d3-af2e-a10b3d5ba351" width="200" height="400">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/62d4e42d-f39c-4f65-aa67-cade44ad9e9b" width="200" height="400">
+</p>
+
+<p align="center">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/96afd64f-d596-48d0-900c-f595dc4ad64a" width="200" height="400">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/f00ba906-b29d-4356-817c-5f2fda257355" width="200" height="400">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/20cba41b-f36d-441e-8e55-3ba354a39f16" width="200" height="400">
+</p>
+
+<p align="center">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/716ad47f-59b8-4921-bb8f-a57bd9925f41" width="200" height="400">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/107456d2-8cbc-4956-9850-b22aa1ed3033" width="200" height="400">
+<img src="https://github.com/awaiskohistanii/Contact_Book/assets/107536933/4ab485b6-8eae-4f8e-8f9b-2434adc84b97" width="200" height="400">
+</p>
